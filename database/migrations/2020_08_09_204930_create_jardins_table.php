@@ -16,7 +16,7 @@ class CreateJardinsTable extends Migration
         Schema::create('jardins', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('nom');
-            $table->string('image');
+            $table->longText('image');
             $table->longText('description');
             $table->longText('nom_botanique');
             $table->longText('info_plante');

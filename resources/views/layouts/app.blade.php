@@ -44,8 +44,8 @@
                 <a class="dropdown-item" href="{{url('Jardin')}}">Plantes et fleurs du jardin</a>
                 <a class="dropdown-item" href="{{url('Bulbeuse')}}">Bulbeuses et tubéreuse</a>
                   <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="{{ url('/home/rusticite') }}" style="background-color:#cbf0b6">Carte de rusticité de france</a>
-                <a class="dropdown-item" href="{{url('/home/climat')}}" style="background-color:#c0e8a9">Carte de climat de france</a>
+                <a class="dropdown-item" href="{{ url('/home/rusticite') }}" style="background-color:#cbf0b6">Cartographie de la végétation au maroc</a>
+                <a class="dropdown-item" href="{{url('/home/climat')}}" style="background-color:#c0e8a9">Carte de climat du Maroc</a>
                 </div>
             </div>
 
@@ -92,7 +92,7 @@
                                     </a>
                                     <hr>
                                     <div style="margin-left:25px">
-                                        {{'revenu : 0 €'}}
+                                        {{'revenu : 0 dhs'}}
                                     </div>
 
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">

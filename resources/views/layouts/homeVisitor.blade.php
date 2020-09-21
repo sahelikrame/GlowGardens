@@ -46,8 +46,8 @@
                       <a class="dropdown-item" href={{url('Jardin')}}>Plantes et fleurs du jardin</a>
                     <a class="dropdown-item" href="{{url('Bulbeuse')}}">Bulbeuses et tubéreuse</a>
                       <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="{{ url('/homeVisitor/rusticite') }}" style="background-color:#cbf0b6">Carte de rusticité de france</a>
-                    <a class="dropdown-item" href="{{url('/homeVisitor/climat')}}" style="background-color:#c0e8a9">Carte de climat de france</a>
+                    <a class="dropdown-item" href="{{ url('/homeVisitor/rusticite') }}" style="background-color:#cbf0b6">Cartographie de la végétation au maroc</a>
+                    <a class="dropdown-item" href="{{url('/homeVisitor/climat')}}" style="background-color:#c0e8a9">Carte de climat du Maroc</a>
                     </div>
                 </div>
 

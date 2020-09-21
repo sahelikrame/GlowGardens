@@ -34,7 +34,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-6">
                         <h3>Passez en mode administrateur</h3>
                         
-                        <p>Avec ce mode vous serez en charge de fiabiliser le site contre un revenu mensuel de 150 € <br>(Corriger des potentiels erreurs de plantations , Ajouter d'autres plantes et fleurs et même en supprimer si cela s'avère nécessaire)</p>
+                        <p>Avec ce mode vous serez en charge de fiabiliser le site contre un revenu mensuel de 1500 dhs <br>(Corriger des potentiels erreurs de plantations , Ajouter d'autres plantes et fleurs et même en supprimer si cela s'avère nécessaire)</p>
                     <p>Devenez admin en créant votre compte dès maintenant</p>
                     <div class="flex-center position-ref full-height">
                       @if (Route::has('login'))
